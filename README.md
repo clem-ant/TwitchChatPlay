@@ -8,4 +8,6 @@ Permet au chat twitch de jouer sur l'ordinateur du streamer en appuyant sur les 
 npm install --global windows-build-tools
 npm install robotjs
 npm install tmi.js
+
+node index.js
 ```
